@@ -1,0 +1,28 @@
+.counter-detail {
+  padding: 10px 20px;
+}
+
+.counter-detail .header {
+  /* margin-bottom: 0px; */
+}
+.counter-detail .title {
+  font-family: "Playfair Display";
+  font-size: 32px;
+  font-weight: 500;
+  /* margin-bottom: 20px; */
+}
+
+.counter-detail .action {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  /* font-family: Inter; */
+  margin-bottom: 20px;
+}
+.counter-detail .action .action-left {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+}

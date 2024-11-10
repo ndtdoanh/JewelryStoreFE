@@ -1,0 +1,28 @@
+.customer-manage-page {
+  padding: 10px 20px;
+}
+
+.customer-manage-page .header {
+  margin-bottom: 10px;
+}
+.customer-manage-page .title {
+  font-family: "Playfair Display";
+  font-size: 32px;
+  font-weight: 500;
+  /* margin-bottom: 20px; */
+}
+
+.customer-manage-page .action {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  /* font-family: Inter; */
+  margin-bottom: 20px;
+}
+.customer-manage-page .action .action-left {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+}

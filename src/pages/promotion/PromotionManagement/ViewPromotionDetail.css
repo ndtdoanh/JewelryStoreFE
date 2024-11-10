@@ -1,0 +1,15 @@
+.container {
+    width: 95%;
+    margin: auto;
+}
+
+.header-detail {
+    margin-top: 20px;
+    font-family: 'Playfair Display';
+    font-size: 49px;
+    font-weight: 500;
+}
+.container-img{
+    width: 65%;
+    margin: auto;
+}

@@ -1,0 +1,34 @@
+.sell-page {
+  padding: 10px 20px;
+}
+
+.sell-page .header {
+  margin-bottom: 10px;
+}
+.sell-page .title {
+  font-family: "Playfair Display";
+  font-size: 32px;
+  font-weight: 500;
+  /* margin-bottom: 20px; */
+}
+.sell-page .sub-title {
+  font-family: "Playfair Display";
+  font-size: 24px;
+  font-weight: 500;
+  /* margin-bottom: 20px; */
+}
+
+.sell-page .action {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  /* font-family: Inter; */
+  margin-bottom: 20px;
+}
+.sell-page .action .action-left {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+}

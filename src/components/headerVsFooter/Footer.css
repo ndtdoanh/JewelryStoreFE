@@ -1,0 +1,12 @@
+/* CSS cho footer */
+.footer-page {
+  text-align: center;
+  padding: 1px;
+  /* font-family: "Beau Rivage"; */
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: 400;
+  background-color: #333333;
+  /* margin-top: auto; */
+  /* flex: 1; */
+}
